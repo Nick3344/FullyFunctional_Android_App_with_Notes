@@ -3,6 +3,7 @@
  The App workflow is as below videos!
 
 
+https://github.com/Nick3344/FullyFunctional_Android_App_with_Notes/assets/114958232/5c1f5b9c-1fd6-4f07-bab4-f787c7edf4f4
 
 
 
@@ -15,5 +16,4 @@ https://github.com/Nick3344/FullyFunctional_Android_App_with_Notes/assets/114958
 
 
 
-https://github.com/Nick3344/FullyFunctional_Android_App_with_Notes/assets/114958232/5c1f5b9c-1fd6-4f07-bab4-f787c7edf4f4
 
