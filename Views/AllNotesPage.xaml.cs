@@ -1,4 +1,4 @@
-namespace Notes.Views;
+namespace Notes.Views; 
 
 public partial class AllNotesPage : ContentPage
 {
