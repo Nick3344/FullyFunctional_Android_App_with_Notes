@@ -1,1 +1,34 @@
-node_modules/
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.sln.docstates
+
+# Ignore build directories
+bin/
+obj/
+
+# Ignore NuGet packages
+packages/
+
+# Ignore user-specific files
+*.userprefs
+*.suo
+*.cache
+*.vscode
+
+# Ignore build output
+[Tt]emp/
+[Bb]uild/
+*.bak
+
+# Ignore ReSharper files
+_ReSharper*/
+*.ReSharper*
+
+# Ignore Rider files
+.idea/
+*.idea/
+
+# Ignore Visual Studio Code files
+.vscode/
